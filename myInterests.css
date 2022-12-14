@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    background-color: crimson;
+}
+p {
+    font-size: x-large;
+}
+a {
+	font-size: 36;
+	font-family: Helvetica;
+	color: #eded1a; 
+	transition: color 0.5s, font-size 0.5s;	
+    background-color: cadetblue;
+    padding: 0.4%;
+    border: 5px solid;
+    border-radius: 17%;
+}
+a:hover {
+	font-size: 50;
+	font-family: Helvetica;
+	color: #f03737;
+    transition: color 0.5s, font-size 0.5s;	
+}
